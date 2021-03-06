@@ -1,0 +1,24 @@
+
+The Employee's Awesome Name Is: Spongebob S. Squarepants
+Employee's Hourly Rate: 13
+Employee's Amount Of Hard Working Hours: 25
+The Employee's Weekly Paycheck Amount $$$: 325
+The Employee's ID Number Is: 225
+The Employee's Department Number Is: 25
+
+The Employee's Awesome Name Is: Uncle Z. Iroh
+Employee's Hourly Rate: 13
+Employee's Amount Of Hard Working Hours: 80
+The Employee's Weekly Paycheck Amount $$$: 1300
+The Employee's ID Number Is: 321
+The Employee's Department Number Is: 16
+
+The Employee's Awesome Name: Squidward J. Tentacles
+The Employ's Salary $$$ Ka-ching!: 50000
+The Employee's ID Number Is: 111
+The Employee's Department Number: 76
+
+The Employee's Awesome Name: Patrick U. Star
+The Employ's Salary $$$ Ka-ching!: 24000
+The Employee's ID Number Is: 124
+The Employee's Department Number: 24
